@@ -1,2 +1,3 @@
-# dw_day1
-Basic-day1
+# Projekt transformacja-poznaj reguły gry.
+dw_day1
+
